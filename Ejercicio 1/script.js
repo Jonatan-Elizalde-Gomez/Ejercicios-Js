@@ -1,7 +1,7 @@
 const container = document.getElementById("container");
 const fragment = document.createDocumentFragment();
 
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 8; i++) {
     
 const newArticle = document.createElement("article");
 const newHeader = document.createElement("header");
